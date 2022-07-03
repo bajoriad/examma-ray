@@ -1,3 +1,8 @@
+# My Role
+
+
+
+
 # examma-ray
 
 Examma Ray is a system for generating randomized or individualized exams which can be taken in a web browser.
