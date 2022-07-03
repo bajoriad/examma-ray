@@ -1,7 +1,7 @@
 # My Role
 
-
-
+1. Adding additional features to the system to make it more student-friendly 
+2. Optimising the grading alogirthm used to grade multiple choice questions on the test
 
 # examma-ray
 
