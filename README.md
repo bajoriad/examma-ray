@@ -1,6 +1,6 @@
 # My Role
 
-1. Adding additional features to the system to make it more student-friendly.
+1. Adding the functionalities and grading algorithm of a new question type to test and automatically grade Parsons problems
 2. Optimising the grading alogirthm used to grade multiple choice questions on the test.
 
 # examma-ray
